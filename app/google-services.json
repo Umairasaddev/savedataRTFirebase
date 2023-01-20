@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "14750964379",
+    "project_id": "savedatartfirebase",
+    "storage_bucket": "savedatartfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:14750964379:android:52bc6a6cfe6ddddc0c843e",
+        "android_client_info": {
+          "package_name": "com.example.savedatartfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "14750964379-5dbh61rrnuq9m5osfnd43uiqghcvcimp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSAre748qAx5dHKIsX2s3szlrOrI6Fvoo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "14750964379-5dbh61rrnuq9m5osfnd43uiqghcvcimp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
